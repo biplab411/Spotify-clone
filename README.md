@@ -1,2 +1,2 @@
 # Spotify-clone
-A clone model of Spotify website
+A clone of the Spotify app using HTML, CSS, and JavaScript.
